@@ -33,6 +33,7 @@ Rating system:
 
 ### Sources
 Kaggle: https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings
+
 Manhattan Chocolate Society: https://flavorsofcacao.com/mcs_index.html
 
 # Tableau - Breif Visual Summary
