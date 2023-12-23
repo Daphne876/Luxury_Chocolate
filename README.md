@@ -15,10 +15,10 @@ The questions I will be exploring in this analysis are
 # Data
 This dataset contains expert ratings of over 1,700 chocolate bars. The data set is sourced from Kaggle. These ratings were compiled by a founding member of the Manhattan Chocolate Society, Brady Brelinski. I chose to study this data set because I am curious if cocoa bean origin and the region of the manufacturer make a difference in rating.
 Rating system:
-5= Elite (Transcending beyond the ordinary limits)
-4= Premium (Superior flavor development, character, and style)
-3= Satisfactory (3.0) to praiseworthy (3.75) (well made with special qualities) 2= Disappointing (Passable but contains at least one significant flaw)
-1= Unpleasant (mostly unpalatable)
+- 5= Elite (Transcending beyond the ordinary limits)
+- 4= Premium (Superior flavor development, character, and style)
+- 3= Satisfactory (3.0) to praiseworthy (3.75) (well made with special qualities) 2= Disappointing (Passable but contains at least one significant flaw)
+- 1= Unpleasant (mostly unpalatable)
 
 ### Columns
 - Company
