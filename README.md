@@ -30,3 +30,6 @@ Rating system:
 - Rating
 - Bean Type
 - Broad Bean Origin
+
+# Tableau - Breif Visual Summary
+https://public.tableau.com/app/profile/daphne.yaghobi/viz/LuxuryChocolatesStoryboard/Story1?publish=yes
