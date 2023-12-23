@@ -31,5 +31,9 @@ Rating system:
 - Bean Type
 - Broad Bean Origin
 
+### Sources
+Kaggle: https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings
+Manhattan Chocolate Society: https://flavorsofcacao.com/mcs_index.html
+
 # Tableau - Breif Visual Summary
 https://public.tableau.com/app/profile/daphne.yaghobi/viz/LuxuryChocolatesStoryboard/Story1?publish=yes
